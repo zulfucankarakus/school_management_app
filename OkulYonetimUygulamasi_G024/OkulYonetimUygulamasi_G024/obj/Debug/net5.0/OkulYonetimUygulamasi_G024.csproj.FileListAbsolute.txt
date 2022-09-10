@@ -1,0 +1,15 @@
+/Users/umitpasahz/Downloads/OkulYonetimUygulamasi_G024/OkulYonetimUygulamasi_G024/obj/Debug/net5.0/OkulYonetimUygulamasi_G024.csproj.AssemblyReference.cache
+/Users/umitpasahz/Downloads/OkulYonetimUygulamasi_G024/OkulYonetimUygulamasi_G024/obj/Debug/net5.0/OkulYonetimUygulamasi_G024.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umitpasahz/Downloads/OkulYonetimUygulamasi_G024/OkulYonetimUygulamasi_G024/obj/Debug/net5.0/OkulYonetimUygulamasi_G024.AssemblyInfoInputs.cache
+/Users/umitpasahz/Downloads/OkulYonetimUygulamasi_G024/OkulYonetimUygulamasi_G024/obj/Debug/net5.0/OkulYonetimUygulamasi_G024.AssemblyInfo.cs
+/Users/umitpasahz/Downloads/OkulYonetimUygulamasi_G024/OkulYonetimUygulamasi_G024/obj/Debug/net5.0/OkulYonetimUygulamasi_G024.csproj.CoreCompileInputs.cache
+/Users/umitpasahz/Downloads/OkulYonetimUygulamasi_G024/OkulYonetimUygulamasi_G024/bin/Debug/net5.0/OkulYonetimUygulamasi_G024.deps.json
+/Users/umitpasahz/Downloads/OkulYonetimUygulamasi_G024/OkulYonetimUygulamasi_G024/bin/Debug/net5.0/OkulYonetimUygulamasi_G024.runtimeconfig.json
+/Users/umitpasahz/Downloads/OkulYonetimUygulamasi_G024/OkulYonetimUygulamasi_G024/bin/Debug/net5.0/OkulYonetimUygulamasi_G024.runtimeconfig.dev.json
+/Users/umitpasahz/Downloads/OkulYonetimUygulamasi_G024/OkulYonetimUygulamasi_G024/bin/Debug/net5.0/OkulYonetimUygulamasi_G024.dll
+/Users/umitpasahz/Downloads/OkulYonetimUygulamasi_G024/OkulYonetimUygulamasi_G024/bin/Debug/net5.0/ref/OkulYonetimUygulamasi_G024.dll
+/Users/umitpasahz/Downloads/OkulYonetimUygulamasi_G024/OkulYonetimUygulamasi_G024/bin/Debug/net5.0/OkulYonetimUygulamasi_G024.pdb
+/Users/umitpasahz/Downloads/OkulYonetimUygulamasi_G024/OkulYonetimUygulamasi_G024/obj/Debug/net5.0/OkulYonetimUygulamasi_G024.dll
+/Users/umitpasahz/Downloads/OkulYonetimUygulamasi_G024/OkulYonetimUygulamasi_G024/obj/Debug/net5.0/ref/OkulYonetimUygulamasi_G024.dll
+/Users/umitpasahz/Downloads/OkulYonetimUygulamasi_G024/OkulYonetimUygulamasi_G024/obj/Debug/net5.0/OkulYonetimUygulamasi_G024.pdb
+/Users/umitpasahz/Downloads/OkulYonetimUygulamasi_G024/OkulYonetimUygulamasi_G024/obj/Debug/net5.0/OkulYonetimUygulamasi_G024.genruntimeconfig.cache

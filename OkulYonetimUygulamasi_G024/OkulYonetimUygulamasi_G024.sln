@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OkulYonetimUygulamasi_G024", "OkulYonetimUygulamasi_G024\OkulYonetimUygulamasi_G024.csproj", "{BA312EC7-40E5-472C-A60E-ACEDA84D4E3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgrenciYonetimSistemiV5", "..\OgrenciYonetimSistemiV5\OgrenciYonetimSistemiV5\OgrenciYonetimSistemiV5.csproj", "{340BC2A5-6E66-4391-901A-02B3222A1EFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtoGaleri_G024", "..\..\Desktop\Ümit\Yazılım\Önceki projeler\OtoGaleri_G024\OtoGaleri_G024\OtoGaleri_G024.csproj", "{B67E263C-DB5D-4F28-AF63-B531279355A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListeOrnekleri", "..\..\Desktop\Ümit\Yazılım\Önceki projeler\ListeOrnekleri\ListeOrnekleri\ListeOrnekleri.csproj", "{7387CE87-FFAF-4721-97F4-8FDA0252968D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA312EC7-40E5-472C-A60E-ACEDA84D4E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA312EC7-40E5-472C-A60E-ACEDA84D4E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA312EC7-40E5-472C-A60E-ACEDA84D4E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA312EC7-40E5-472C-A60E-ACEDA84D4E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{340BC2A5-6E66-4391-901A-02B3222A1EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340BC2A5-6E66-4391-901A-02B3222A1EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340BC2A5-6E66-4391-901A-02B3222A1EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340BC2A5-6E66-4391-901A-02B3222A1EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B67E263C-DB5D-4F28-AF63-B531279355A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B67E263C-DB5D-4F28-AF63-B531279355A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B67E263C-DB5D-4F28-AF63-B531279355A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B67E263C-DB5D-4F28-AF63-B531279355A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7387CE87-FFAF-4721-97F4-8FDA0252968D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7387CE87-FFAF-4721-97F4-8FDA0252968D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7387CE87-FFAF-4721-97F4-8FDA0252968D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7387CE87-FFAF-4721-97F4-8FDA0252968D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {652A3A94-6A5E-4EEE-80F3-A622AA135B7F}
+	EndGlobalSection
+EndGlobal
